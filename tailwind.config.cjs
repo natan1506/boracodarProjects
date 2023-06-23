@@ -10,9 +10,13 @@ module.exports = {
         'medium-orchid': '#B14AED',
         'french-mauve': '#C874D9',
         'cameo-pink': '#E1BBC9',
-        'grey-test': '#415a77'
+        'grey-test': '#415a77',
+        'purple-dark': '#462878',
+        'purple-light': '#7F45E2'
       },
     },
   },
-  plugins: [],
+  plugins: [
+   
+  ],
 }
